@@ -1,0 +1,122 @@
+body{
+    background-color: black;
+}
+section{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 10px;
+}
+fieldset{
+    width: 200px;
+    text-align: center;
+    border: 1px solid gray;
+}
+.two{
+    text-align: center;
+}
+footer{
+    text-align: center;
+    font-size: 13px;
+}
+.inner{
+    text-decoration: none;
+    color: slategray;
+}
+.hyp{
+    text-decoration: none;
+    margin: 0px 4px;
+    color: rgb(179, 162, 162);
+}
+.plop{
+    width: 150px;
+    padding: 3px;
+    background-color: #1877f2;
+    color: white;
+    border: #1877f2 1px solid;
+    margin-top: 5px;
+    border-radius: 6px;
+    font-size: 12px;
+}
+select{
+    border: none;
+    margin-top: 10px;
+    font-size: 13px;
+    width: 70px;
+    background-color: black;
+    color: gainsboro;
+    margin-right: 12px;
+}
+.one{
+    margin-right: 190px;
+}
+h1{
+    color: white;
+    font-family: cursive, 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.fromm{
+    color: gainsboro ;
+    font-size: 10px;
+}
+.boot{
+    background-color: black;
+    color: white;
+    border: 1px solid white;
+    border-radius: 5px;
+    padding: 6px;
+    width: 100px;
+    font-size: 10px;
+    height: 40px;
+}
+.kik{
+    margin-top: 0.5px;
+    font-size: 14px;
+}
+.from{
+    color: gainsboro;
+}
+#ola{
+    border: 1px solid whitesmoke;
+    text-align: center;
+    margin-top: 20px;
+    padding: 10px;
+    color: gainsboro;
+    font-size: 12px;
+}
+#chi{
+    color: gainsboro;
+}
+.treep{
+    background-color: #1877f2;
+    padding: 3px;
+    font-size: 12px;
+    color: white;
+    width: 180px;
+    border: 1px solid #1877f2;
+    border-radius: 5px;
+}
+.input{
+    margin-bottom: 5px;
+    border: 1px solid whitesmoke;
+    color: gainsboro;
+    background-color: black;
+    padding: 8px;
+    border-radius: 5px;
+    font-size: 10px;
+    width: 170px;
+}
+#bbb{
+    color: gainsboro;
+}
+.omg{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+a:hover{
+    text-decoration: underline;
+}
+.hyp:hover{
+    text-decoration: underline;
+}
